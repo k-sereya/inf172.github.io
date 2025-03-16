@@ -208,17 +208,7 @@ button {
      cursor: pointer;
 }
 
-.full {
-     float: left;
-     width: 100%;
-}
 
-.full {
-     width: 100%;
-     float: left;
-     margin: 0;
-     padding: 0;
-}
 
 .titlepage {
      padding-bottom: 60px;
@@ -320,10 +310,7 @@ button {
 }
 
 .logo a {
-     font-weight: 600;
-     font-size: 30px;
-     writing-mode: vertical-lr;
-     text-orientation: upright;
+     font-size: 10px;
 }
 
 .header_full_banne {
