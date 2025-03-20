@@ -83,10 +83,12 @@ h1 {
 
 h2 {
      font-size: 22px;
+     color: #000;
 }
 
 h3 {
      font-size: 18px;
+     color:#000;
 }
 
 h4 {
@@ -534,10 +536,6 @@ ul.conta_top li a {
 .about::before {
      position: absolute;
      content: "";
-     background: url(../images/about_left.png);
-     background-repeat: no-repeat;
-     width: 360px;
-     height: 212px;
      top: 0;
 }
 
@@ -602,6 +600,11 @@ ul.conta_top li a {
 .quality .read_more {
      margin: 0 auto;
      margin-top: 30px !important;
+}
+
+.subtitle {
+     text-align: center;
+     padding-top: 20px;
 }
 
 
@@ -918,4 +921,8 @@ ul.conta li a:hover {
 
 .inner_page .honey_bg {
      padding-top: 90px;
+}
+
+.simple_link {
+     color: red;
 }
