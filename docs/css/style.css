@@ -247,6 +247,12 @@ button {
      border-radius: 30px;
 }
 
+.demo_center {
+     padding: 10px;
+     display: grid;
+     place-items: center;
+}
+
 .read_more:hover {
      background: #E46865;
      color: #fff;
